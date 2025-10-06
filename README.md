@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mehmet Fatih Karakaş</h1>
 <h3 align="center">A passionate Biomedical Engineer from Turkey</h3>
 
-- 🔭 I’m currently working on **Inner Speech Decoding**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
